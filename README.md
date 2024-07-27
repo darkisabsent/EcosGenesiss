@@ -36,7 +36,7 @@ Clone the Repository
 bash
 Copier le code
 git clone https://github.com/darkisabsent/EcosGenesiss.git
-cd H2OToken
+
 Set Up the Backend
 
 Navigate to the backend directory and install dependencies:
